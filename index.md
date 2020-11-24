@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to My Life
 
-You can use the [editor on GitHub](https://github.com/Crakna/my-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+essa é apenas uma pagina de teste, então não espere muito, ok!?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+cara eu só to apagando e reescrevendo kkkk!!!
 
-### Markdown
+### Por Que?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+É o Curso meu fii, mas acho que vou  ficar por aqui mesmo, aqui as coisas são mais faceis
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Como que bota imagen nessa bagaça!?
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+espera ai, a pagina acaba aqui
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Crakna/my-page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### FIM?
